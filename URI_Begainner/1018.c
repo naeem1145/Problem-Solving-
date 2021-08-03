@@ -25,10 +25,4 @@ int main() {
     printf("%d nota(s) de R$ 1,00\n", n/1);
 
     return 0;
-
-
-
-    return 0;
-
-
 }
